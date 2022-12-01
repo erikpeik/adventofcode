@@ -4,4 +4,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
  Day | Title | Language |Status
 :---:|:-----:|:--------:|:-----:
-Day 1 | [Calorie Counting](https://github.com/erikpeik/adventofcode2022/tree/master/day01) | Python | ⭐⭐
+Day 1 | [Calorie Counting](https://github.com/erikpeik/adventofcode2022/tree/master/day1) | Python | ⭐⭐
