@@ -7,4 +7,4 @@
 Day 1 | [Calorie Counting](https://github.com/erikpeik/adventofcode2022/tree/master/day1) | Python | ⭐⭐
 Day 2 | [Rock Paper Scissors](https://github.com/erikpeik/adventofcode2022/tree/master/day2) | Python | ⭐⭐
 Day 3 | [Rucksack Reorganization](https://github.com/erikpeik/adventofcode2022/tree/master/day3) | Python | ⭐⭐
-Day 4 | [Camp Cleanup](https://github.com/erikpeik/adventofcode2022/tree/master/day4) | Python | ⭐
+Day 4 | [Camp Cleanup](https://github.com/erikpeik/adventofcode2022/tree/master/day4) | Python | ⭐⭐
