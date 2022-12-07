@@ -9,3 +9,5 @@ Day 2 | [Rock Paper Scissors](https://github.com/erikpeik/adventofcode2022/tree/
 Day 3 | [Rucksack Reorganization](https://github.com/erikpeik/adventofcode2022/tree/master/day3) | Python | ⭐⭐
 Day 4 | [Camp Cleanup](https://github.com/erikpeik/adventofcode2022/tree/master/day4) | Python | ⭐⭐
 Day 5 | [Supply Stacks](https://github.com/erikpeik/adventofcode2022/tree/master/day5) | Python | ⭐⭐
+Day 6 | [Tuning Trouble](https://github.com/erikpeik/adventofcode2022/tree/master/day6) | Python | ⭐⭐
+Day 7 | [No Space Left On Device](https://github.com/erikpeik/adventofcode2022/tree/master/day7) | Python | ⭐⭐
